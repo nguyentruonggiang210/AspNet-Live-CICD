@@ -1,3 +1,4 @@
+using AspNet_Live_CICD.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,6 +29,7 @@ namespace AspNet_Live_CICD
         {
 
             services.AddControllers();
+            services.AddScoped<IActionService, ActionService>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "AspNet_Live_CICD", Version = "v1" });

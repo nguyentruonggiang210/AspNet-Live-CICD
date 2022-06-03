@@ -22,3 +22,6 @@ jobs:
 
       - name: Build .NET application
         run: dotnet build -c Release --no-restore
+
+      - name: Run Unit Test
+        run: dotnet test -c Release --no-build
