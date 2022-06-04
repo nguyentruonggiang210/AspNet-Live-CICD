@@ -30,6 +30,17 @@ jobs:
       - name: Run Unit Test
         run: dotnet test -c Release --no-build
 
+      - name: SonarQube Scanner
+        uses: sonarsource/sonarqube-scan-action@master
+        env:
+          SONAR_TOKEN: ${{ secrets.SONARQUBE_TOKEN }}
+
+      - name: SonarQube Quality Gate
+        uses: sonarsource/sonarqube-quality-gate-action@master
+        timeout-minutes: 5
+        env:
+          SONAR_TOKEN: ${{ secrets.SONARQUBE_TOKEN }}
+
       - name: Publish app
         run: dotnet publish -c Release -o ./out # publish to ./out folder
 
@@ -39,4 +50,3 @@ jobs:
           app-name: ${{ env.AZURE_WEBAPP_NAME }} # web app name created in Azure Portal
           publish-profile: ${{ secrets.AZURE_WEB_APP_PUBLISH_SECRECT }} # secrets. name of secrets created in github
           package: ./out # read published files int ./out
-
