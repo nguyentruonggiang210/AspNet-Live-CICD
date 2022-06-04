@@ -62,7 +62,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }} # Needed to get PR information, if any
           SONAR_TOKEN: ${{ secrets.SONARQUBE_TOKEN }}
-        shell: powershell
         run: |
           dotnet sonarscanner begin /k:"nguyentruonggiang210_AspNet-Live-CICD" /o:"nguyentruonggiang210" /d:sonar.login="${{ secrets.SONARQUBE_TOKEN }}" /d:sonar.host.url="https://sonarcloud.io"
           dotnet build
