@@ -11,7 +11,7 @@ Step 6: Deploy azure web app
 + Click "Get publish profile"
 + Go to github repo, tab "Settings"
 + Secret > Action Secrets and create new with value is file content downloaded
-+  
++  Config yaml file
     
 Note:
 dotnet restore : fetch necessary packages
