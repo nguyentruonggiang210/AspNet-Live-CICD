@@ -1,3 +1,5 @@
+[![Continous Integration and Deployment](https://github.com/nguyentruonggiang210/AspNet-Live-CICD/actions/workflows/ci-cd.yaml/badge.svg)](https://github.com/nguyentruonggiang210/AspNet-Live-CICD/actions/workflows/ci-cd.yaml)
+
 Step 1: Add file .gitignore to prevent commit some files
 Step 2: Add file with extension .yaml
 Step 3: Config this file 
