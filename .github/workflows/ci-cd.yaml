@@ -44,10 +44,10 @@ jobs:
             -Dsonar.organization=nguyentruonggiang210
             -Dsonar.projectKey=${{ secrets.SONARQUBE_TOKEN }}
             -Dsonar.python.coverage.reportPaths=coverage.xml
-            -Dsonar.sources=lib/
-            -Dsonar.test.exclusions=tests/**
-            -Dsonar.tests=tests/
+            -Dsonar.sources=./out
+            -Dsonar.tests=./AspNet-Live-CICD.Test
             -Dsonar.verbose=true
+            -Dsonar.branch.name=
 
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v2
