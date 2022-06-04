@@ -1,0 +1,15 @@
+﻿D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\AspNet-Live-CICD\obj\Debug\net5.0\AspNet-Live-CICD.AssemblyInfo.cs
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\Controllers\WeatherForecastController.cs
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\Program.cs
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\Services\ActionService.cs
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\Services\IActionService.cs
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\Startup.cs
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\WeatherForecast.cs
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\obj\Debug\net5.0\AspNet-Live-CICD.AssemblyInfo.cs
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\obj\Debug\net5.0\AspNet-Live-CICD.MvcApplicationPartsAssemblyInfo.cs
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\appsettings.Development.json
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\appsettings.json
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\AspNet-Live-CICD\obj\Debug\net5.0\AspNet-Live-CICD.AssemblyInfoInputs.cache
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\AspNet-Live-CICD\obj\Debug\net5.0\AspNet-Live-CICD.GeneratedMSBuildEditorConfig.editorconfig
+D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\Properties\launchSettings.json

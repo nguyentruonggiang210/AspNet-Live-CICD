@@ -1,0 +1,11 @@
+‰
+~D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\AspNet-Live-CICD\obj\Debug\net5.0\AspNet-Live-CICD.AssemblyInfo.csutf-8m
+dD:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\Controllers\WeatherForecastController.csutf-8O
+FD:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\Program.csutf-8^
+UD:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\Services\ActionService.csutf-8_
+VD:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\Services\IActionService.csutf-8O
+FD:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\Startup.csutf-8W
+ND:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\WeatherForecast.csutf-8†
+{D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.csutf-8x
+mD:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\obj\Debug\net5.0\AspNet-Live-CICD.AssemblyInfo.csutf-8Œ
+€D:\SourceCode\C#Workspace\AspNet-Live-CICD\AspNet-Live-CICD\obj\Debug\net5.0\AspNet-Live-CICD.MvcApplicationPartsAssemblyInfo.csutf-8
