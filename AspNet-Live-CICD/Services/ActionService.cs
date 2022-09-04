@@ -22,5 +22,10 @@ namespace AspNet_Live_CICD.Services
             })
             .ToArray();
         }
+
+        private void DoSomething()
+        {
+            Console.WriteLine(Summaries.Count());
+        }
     }
 }
