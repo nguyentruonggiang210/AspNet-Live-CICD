@@ -25,6 +25,7 @@ namespace AspNet_Live_CICD.Services
 
         private void DoSomething()
         {
+            // comment
             Console.WriteLine(Summaries.Count());
         }
     }
